@@ -118,8 +118,8 @@ El proyecto se organizará en seis fases para facilitar el trabajo y comprobar q
 
 ## 1. Planificación
 
-Todas las tareas las he definido en la plataforma de **JIRA** para su organización, justo debajo teneis un enlace para acceder a ella.
-Para acceder a la planificación en Jira pulsa [aqui](https://www.ejemplo.com)
+-Todas las tareas las he definido en la plataforma de **JIRA** para su organización, justo debajo teneis un enlace para acceder a ella.
+-Para acceder a la planificación en Jira pulsa [aqui](https://www.ejemplo.com)
 
 ## 2. Análisis y diseño
 
