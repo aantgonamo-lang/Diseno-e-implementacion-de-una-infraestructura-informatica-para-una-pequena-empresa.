@@ -118,7 +118,8 @@ El proyecto se organizará en seis fases para facilitar el trabajo y comprobar q
 
 ## 1. Planificación
 
-Definiré las necesidades de la pequeña empresa, los objetivos del proyecto y las herramientas que utilizaré.
+Todas las tareas las he definido en la plataforma de **JIRA** para su organización, justo debajo teneis un enlace para acceder a ella.
+Enlace para la organización de tareas en Jira[https://id.atlassian.com/login?continue=https%3A%2F%2Fid.atlassian.com%2Fjoin%2Fuser-access%3Fresource%3Dari%253Acloud%253Ajira%253A%253Asite%252Fdd69bcf7-0bd1-41f4-a221-2599fa41ccf7%26continue%3Dhttps%253A%252F%252Fantoniogonzalezamores.atlassian.net%252F%253Fcontinue%253Dhttps%25253A%25252F%25252Fantoniogonzalezamores.atlassian.net%25252Fwelcome%25252Fsoftware%25253FprojectId%25253D10000%2526atlOrigin%253DeyJpIjoiZjdjYzY2Njc3NDc3NDJhM2FkNjg4YWVjMDQ0NDZmNmMiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9&application=jira&orgId=864bd0c2-c8bf-4e55-934a-6acac66b7bb7]
 
 ## 2. Análisis y diseño
 
@@ -173,10 +174,10 @@ Se incluirán los siguientes elementos para mostrar el trabajo realizado:
 
 Para realizar el proyecto consultaré la documentación oficial de las herramientas utilizadas y otros recursos técnicos que me ayuden a resolver posibles problemas.
 
-- Ubuntu: Documentación oficial de Ubuntu Server.
-- VirtualBox: Manual oficial de VirtualBox.
-- MySQL: Documentación oficial de MySQL.
-- Samba: Página oficial de Samba.
-- BIND9: Documentación de BIND9.
+- Ubuntu: [https://ubuntu.com/server/docs?utm_source=chatgpt.com]
+- VirtualBox: [https://www.virtualbox.org/manual/?utm_source=chatgpt.com]
+- MySQL: [https://dev.mysql.com/doc/?utm_source=chatgpt.com]
+- Samba: [https://www.samba.org/?utm_source=chatgpt.com]
+- BIND9: [https://bind9.readthedocs.io/?utm_source=chatgpt.com]
 
 Estas fuentes me servirán para consultar información sobre la instalación, configuración y administración de los sistemas y servicios utilizados durante el desarrollo del proyecto.
