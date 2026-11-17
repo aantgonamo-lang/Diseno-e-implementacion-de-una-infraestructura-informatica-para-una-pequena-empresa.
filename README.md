@@ -119,7 +119,7 @@ El proyecto se organizará en seis fases para facilitar el trabajo y comprobar q
 ## 1. Planificación
 
 Todas las tareas las he definido en la plataforma de **JIRA** para su organización, justo debajo teneis un enlace para acceder a ella.
-Enlace para la organización de tareas en Jira[https://id.atlassian.com/login?continue=https%3A%2F%2Fid.atlassian.com%2Fjoin%2Fuser-access%3Fresource%3Dari%253Acloud%253Ajira%253A%253Asite%252Fdd69bcf7-0bd1-41f4-a221-2599fa41ccf7%26continue%3Dhttps%253A%252F%252Fantoniogonzalezamores.atlassian.net%252F%253Fcontinue%253Dhttps%25253A%25252F%25252Fantoniogonzalezamores.atlassian.net%25252Fwelcome%25252Fsoftware%25253FprojectId%25253D10000%2526atlOrigin%253DeyJpIjoiZjdjYzY2Njc3NDc3NDJhM2FkNjg4YWVjMDQ0NDZmNmMiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9&application=jira&orgId=864bd0c2-c8bf-4e55-934a-6acac66b7bb7]
+Para acceder a la planificación en Jira pulsa [aqui](https://www.ejemplo.com)
 
 ## 2. Análisis y diseño
 
