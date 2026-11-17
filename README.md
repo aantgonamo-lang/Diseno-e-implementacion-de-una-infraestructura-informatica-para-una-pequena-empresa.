@@ -1,1 +1,1 @@
-# Dise-o-e-implementaci-n-de-una-infraestructura-inform-tica-para-una-peque-a-empresa.
+# Diseño-e-implementación-de-una-infraestructura-informática-para-una-pequeña-empresa.
