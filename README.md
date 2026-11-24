@@ -175,10 +175,10 @@ Se incluirán los siguientes elementos para mostrar el trabajo realizado:
 
 Para realizar el proyecto consultaré la documentación oficial de las herramientas utilizadas y otros recursos técnicos que me ayuden a resolver posibles problemas.
 
-- Ubuntu: [https://ubuntu.com/server/docs?utm_source=chatgpt.com]
-- VirtualBox: [https://www.virtualbox.org/manual/?utm_source=chatgpt.com]
-- MySQL: [https://dev.mysql.com/doc/?utm_source=chatgpt.com]
-- Samba: [https://www.samba.org/?utm_source=chatgpt.com]
-- BIND9: [https://bind9.readthedocs.io/?utm_source=chatgpt.com]
+- [Documentación oficial de Ubuntu Server](https://ubuntu.com/server/docs)
+- [Manual oficial de VirtualBox](https://www.virtualbox.org/manual/)
+- [Documentación oficial de MySQL](https://dev.mysql.com/doc/)
+- [Página oficial de Samba](https://www.samba.org/)
+- [Documentación oficial de BIND9](https://bind9.readthedocs.io/)
 
 Estas fuentes me servirán para consultar información sobre la instalación, configuración y administración de los sistemas y servicios utilizados durante el desarrollo del proyecto.
