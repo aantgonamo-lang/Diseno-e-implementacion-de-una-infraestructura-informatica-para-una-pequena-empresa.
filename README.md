@@ -120,7 +120,7 @@ El proyecto se organizará en seis fases para facilitar el trabajo y comprobar q
 
 Todas las tareas las he definido en la plataforma de **JIRA** para su organización, justo debajo teneis un enlace para acceder a ella.
 
-Para acceder a la planificación en Jira pulsa [aqui](https://antoniogonzalezamores.atlassian.net/jira/software/projects/KAN/boards/1/timeline)
+Para acceder a la planificación en Jira pulsa [aquí](https://antoniogonzalezamores.atlassian.net/jira/software/projects/KAN/boards/1/timeline)
 
 ## 2. Análisis y diseño
 
